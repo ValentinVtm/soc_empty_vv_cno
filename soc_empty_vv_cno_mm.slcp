@@ -1,6 +1,6 @@
 # Silicon Labs Project Configuration Tools: slcp, v0, Component selection file.
-project_name: soc_empty_sdcr_ag_md
-label: soc_empty_sdcr_ag_md
+project_name: soc_empty_vv_cno_mm
+label: soc_empty_vv_cno_mm
 description: |
   A minimal project structure, that serves as a starting point for custom Bluetooth applications. The application starts advertising after boot and restarts advertising after a connection is closed.
 category: Bluetooth Examples
